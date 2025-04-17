@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nome": "Vinicius Santana",
+    "telefone": "(11) 94157-3107",
+    "email": "vinicius.santana@gmail.com"
+  },
+  {
+    "id": 2,
+    "nome": "Caio Franco",
+    "telefone": "(11) 99753-0608",
+    "email": "caiojcv@gmail.com"
+  },
+  {
+    "id": 3,
+    "nome": "Felipe Henry",
+    "telefone": "(11) 96467-5224",
+    "email": "felipehenry.sacchi@gmail.com"
+  },
+  {
+    "id": 4,
+    "nome": "Yuri Brida",
+    "telefone": "(11) 92200-2201",
+    "email": "yuri.brida@gmail.com"
+  },
+  {
+    "id": 5,
+    "nome": "Guilherme Donatelângelo",
+    "telefone": "(11) 9459-1902",
+    "email": "dona19@gmail.com"
+  },
+  {
+    "id": 6,
+    "nome": "Murilo Big",
+    "telefone": "(11) 9894-0693",
+    "email": "muriloso@gmail.com"
+  },
+  {
+    "id": 7,
+    "nome": "Fernando Henrique",
+    "telefone": "(11) 9965-1452",
+    "email": "fernando.h@gmail.com"
+  },
+  {
+    "id": 8,
+    "nome": "Yuri Alberto",
+    "telefone": "(11) 91023-9900",
+    "email": "yurialberto9@gmail.com"
+  },
+  {
+    "id": 9,
+    "nome": "Rodrigo Garro",
+    "telefone": "(11) 9856-0808",
+    "email": "rodrigo.garro8@gmail.com"
+  },
+  {
+    "id": 10,
+    "nome": "Hugo Souza",
+    "telefone": "(11) 90110-2231",
+    "email": "neneca01@gmail.com"
+  },
+  {
+    "id": 11,
+    "nome": "Memphis Depay",
+    "telefone": "(11) 9000-0001",
+    "email": "memphis<->@gmail.com"
+  },
+  {
+    "nome": "José Martinez",
+    "telefone": "(11) 98547-5256",
+    "email": "jmrtz@gmail.com",
+    "id": 12
+  }
+]
