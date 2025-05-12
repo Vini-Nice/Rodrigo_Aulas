@@ -1,4 +1,5 @@
 import mysql from 'mysql2/promise';
+import bcrypt from 'bcryptjs';
 
 const pool = mysql.createPool({
     host: 'localhost',
@@ -115,4 +116,14 @@ async function deleteRecord(table, where) {
     }
 }
 
-export { create, readAll, read, update, deleteRecord }
+
+async function compare(senha, hash) {
+    try{
+        return await bcrypt.compare(senha, hash);
+    } catch(err) {
+        console.error('Erro ao compararn a senha com o hash: ', err);
+        return false;
+    }
+}
+
+export { create, readAll, read, update, deleteRecord, compare }
